@@ -1,0 +1,24 @@
+Auto Add Brackets in String Interpolation
+Auto Import
+Auto Rename Tag
+Auto-Align
+Bookmarks
+Bootstrap 3 Snippets
+Bracket Pair Colorizer
+Spelling Checker for Visual Studio Code
+Debugger for Chrome 
+Dracula
+Format HTML in PHP
+Formate: CSS, LESS and SCSS Formatter
+GitLens
+HTML CSS Support
+JS, CSS, HTML Formatting
+Live serve
+PHP debug
+php formatter
+php intellisense
+prettier - code formatter
+setting sync
+sqltools
+intellicode
+icons
